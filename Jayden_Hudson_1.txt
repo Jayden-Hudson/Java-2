@@ -1,2 +1,3 @@
 Hello! This is my first file for the Java 2 Github Homework.
 This line was edited in the github website.
+This third line was added using the git bash after being pulled.
